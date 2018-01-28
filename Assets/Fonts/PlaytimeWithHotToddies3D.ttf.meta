@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d334f6a3c79c43848ac1a79c3d47ec7a
+timeCreated: 1482937808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PlaytimeWithHotToddies3D
+  fontNames:
+  - PlaytimeWithHotToddies3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e5fe1088d021c6a4aac1951afa7cb6c7
+timeCreated: 1482937693
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GosmickSans
+  fontNames:
+  - GosmickSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a228d51b72d18340bbb3c5994c3ab3b, type: 3}
+  - {fileID: 12800000, guid: 8799b1ed6c0b0604ca55551a861b62f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

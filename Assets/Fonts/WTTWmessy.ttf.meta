@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5dd1ced62879d54990b0b5a8a22db4b
+timeCreated: 1482937622
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WTTWmessy
+  fontNames:
+  - WTTWmessy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

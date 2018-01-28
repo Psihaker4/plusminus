@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e8f67123f1045d14395dc90a6c096c7f
+timeCreated: 1482937808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lexie Readable
+  fontNames:
+  - Lexie Readable
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67685cf83462f264f99748562e9cb91a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

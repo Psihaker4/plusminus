@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "955508740196",
+    "firebase_url": "https://plus-minus-6ffc2.firebaseio.com",
+    "project_id": "plus-minus-6ffc2",
+    "storage_bucket": "plus-minus-6ffc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955508740196:android:4497f5982ddfa87d",
+        "android_client_info": {
+          "package_name": "com.medusa.plusminus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955508740196-ie9dnl93e0m9ud9b5aua61vn4bsbek9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASsZTsO7WlvPx3qnKZXWjAfXZ1W5ARbwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
